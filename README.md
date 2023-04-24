@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![image](https://user-images.githubusercontent.com/94154683/234036343-f686c102-98a1-4af8-a9ba-ba8c07423191.png)
+![image](https://user-images.githubusercontent.com/94154683/234036733-8d319ac4-d90a-48e2-a907-20ea15a02e19.png)
 
 
 ## Result:
